@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bfccc8d-01b5-4c1f-8d37-7920ccac0364" name="Changes" comment="Creating project">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1bfccc8d-01b5-4c1f-8d37-7920ccac0364" name="Changes" comment="First Tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +61,58 @@
       <option name="project" value="LOCAL" />
       <updated>1678275611199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Tests">
+      <created>1678276015864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678276015864</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Tests">
+      <created>1678276077694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678276077694</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First Tests">
+      <created>1678276196891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678276196891</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First Tests">
+      <created>1678276364573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678276364573</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First Tests">
+      <created>1678276389171</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678276389171</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating project" />
+    <MESSAGE value="First Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Tests" />
   </component>
 </project>
